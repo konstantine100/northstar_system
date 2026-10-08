@@ -1,0 +1,12 @@
+mcp
+google-genai
+httpx
+pydantic
+chromadb
+sentence-transformers
+pypdf
+python-docx
+rich
+python-dotenv
+langchain-community
+langchain-text-splitters
